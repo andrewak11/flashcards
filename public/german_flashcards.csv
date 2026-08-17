@@ -1,0 +1,162 @@
+﻿german,english,type,gender,example
+der Name,name,Noun,der,Mein Name ist Thomas.
+heißen,to be called,Verb,-,Ich heiße Maria.
+kommen,to come,Verb,-,Woher kommen Sie? Ich komme aus Spanien.
+sprechen,to speak,Verb,-,Sprechen Sie Deutsch?
+die Frau,woman / Mrs.,Noun,die,Das ist Frau Müller.
+der Herr,man / Mr.,Noun,der,"Guten Tag, Herr Schneider!"
+guten Tag,good day / hello,Phrase,-,Guten Tag! Wie geht es Ihnen?
+guten Morgen,good morning,Phrase,-,"Guten Morgen, allerseits!"
+guten Abend,good evening,Phrase,-,"Guten Abend, meine Damen und Herren."
+gute Nacht,good night,Phrase,-,"Gute Nacht, schlaf gut!"
+tschüs,bye,Phrase,-,"Tschüs, bis morgen!"
+auf Wiedersehen,goodbye,Phrase,-,"Auf Wiedersehen, Frau Graf."
+ja,yes,Particle,-,"Ja, das stimmt."
+nein,no,Particle,-,"Nein, das weiß ich nicht."
+wer,who,Pronoun,-,Wer ist das?
+wie,how / what,Pronoun,-,Wie heißt du?
+woher,where from,Pronoun,-,Woher kommst du?
+das Land,country,Noun,das,Deutschland ist ein schönes Land.
+die Sprache,language,Noun,die,Welche Sprachen sprechen Sie?
+das Alphabet,alphabet,Noun,das,Buchstabieren Sie bitte das Alphabet.
+wohnen,to live / reside,Verb,-,Ich wohne in Berlin.
+arbeiten,to work,Verb,-,Er arbeitet als Ingenieur.
+studieren,to study (university),Verb,-,Sie studiert Medizin in Wien.
+sein,to be,Verb,-,Ich bin Student.
+haben,to have,Verb,-,Wir haben heute Zeit.
+der Freund,friend (male),Noun,der,Das ist mein Freund Lukas.
+die Freundin,friend (female),Noun,die,Meine Freundin wohnt in Hamburg.
+der Beruf,profession / job,Noun,der,Was sind Sie von Beruf?
+die Adresse,address,Noun,die,Wie ist Ihre Adresse?
+die Telefonnummer,phone number,Noun,die,Hier ist meine Telefonnummer.
+die E-Mail-Adresse,email address,Noun,die,Schreiben Sie mir eine E-Mail.
+die Zahl,number,Noun,die,Lernen wir die Zahlen von 1 bis 100.
+ledig,single,Adjective,-,Er ist ledig und hat keine Kinder.
+verheiratet,married,Adjective,-,Wir sind seit fünf Jahren verheiratet.
+geschieden,divorced,Adjective,-,Sie ist geschieden.
+alt,old,Adjective,-,Ich bin 25 Jahre alt.
+essen,to eat,Verb,-,Morgens esse ich ein Brot.
+trinken,to drink,Verb,-,Trinkst du gern Kaffee?
+kaufen,to buy,Verb,-,Wir kaufen Gemüse auf dem Markt.
+schmecken,to taste,Verb,-,Das Essen schmeckt sehr gut.
+das Brot,bread,Noun,das,Das Brot ist frisch.
+die Brötchen,bread roll,Noun,das,Ich kaufe zwei Brötchen zum Frühstück.
+der Apfel,apple,Noun,der,Ein Apfel am Tag ist gesund.
+die Banane,banana,Noun,die,Die Kinder essen gern Bananen.
+die Milch,milk,Noun,die,Ich trinke Kaffee mit Milch.
+der Kaffee,coffee,Noun,der,Möchtest du einen Kaffee?
+der Tee,tea,Noun,der,Er trinkt lieber Tee als Kaffee.
+das Wasser,water,Noun,das,"Ein Glas Wasser, bitte."
+der Käse,cheese,Noun,der,Der Käse kommt aus der Schweiz.
+die Wurst,sausage / cold cuts,Noun,die,Möchtest du Wurst auf dein Brot?
+das Fleisch,meat,Noun,das,Ich esse kein Fleisch.
+der Fisch,fish,Noun,der,Freitags essen wir Fisch.
+das Gemüsemesser,vegetable knife,Noun,das,Wo ist das Gemüsemesser?
+der Supermarkt,supermarket,Noun,der,Ich gehe in den Supermarkt.
+lecker,delicious,Adjective,-,Der Kuchen ist wirklich lecker!
+hungrig,hungry,Adjective,-,Ich bin sehr hungrig.
+wohnen,to dwell,Verb,-,Sie wohnen in einer hellen Wohnung.
+finde,to find / think,Verb,-,Wie findest du das Wohnzimmer?
+kosten,to cost,Verb,-,Wie viel kostet die Miete?
+das Haus,house,Noun,das,Das Haus hat einen schönen Garten.
+die Wohnung,apartment / flat,Noun,die,Die Wohnung hat drei Zimmer.
+das Zimmer,room,Noun,das,Das Zimmer ist groß und hell.
+die Küche,kitchen,Noun,die,In der Küche kochen wir zusammen.
+das Bad,bathroom,Noun,das,Das Bad ist neu renoviert.
+das Schlafzimmer,bedroom,Noun,das,Im Schlafzimmer steht ein großes Bett.
+das Wohnzimmer,living room,Noun,das,Wir sitzen im Wohnzimmer.
+der Balkon,balcony,Noun,der,Im Sommer sitzen wir auf dem Balkon.
+der Tisch,table,Noun,der,Der Tisch steht in der Mitte.
+der Stuhl,chair,Noun,der,Nimm dir einen Stuhl!
+das Bett,bed,Noun,das,Das Bett ist sehr bequem.
+der Schrank,wardrobe / closet,Noun,der,Kleidung hängt im Schrank.
+groß,big / large,Adjective,-,Die Küche ist sehr groß.
+klein,small,Adjective,-,Das Bad ist ein bisschen klein.
+hell,bright,Adjective,-,Das Wohnzimmer ist wunderbar hell.
+dunkel,dark,Adjective,-,Der Flur ist leider recht dunkel.
+teuer,expensive,Adjective,-,Die Wohnung ist mir zu teuer.
+günstig,cheap / affordable,Adjective,-,Das Zimmer ist sehr günstig.
+aufstehen,to get up,Verb,-,Ich stehe jeden Tag um 7 Uhr auf.
+frühstücken,to eat breakfast,Verb,-,Wir frühstücken zusammen in der Küche.
+anfangen,to start / begin,Verb,-,Der Unterricht fängt um 8:30 Uhr an.
+arbeiten,to work,Verb,-,Er arbeitet bis 17 Uhr.
+einkaufen,to shop,Verb,-,Am Nachmittag kaufe ich ein.
+fernsehen,to watch TV,Verb,-,Abends sehe ich gerne fern.
+schlafen,to sleep,Verb,-,Ich schlafe meistens um 23 Uhr ein.
+die Zeit,time,Noun,die,Hast du heute Zeit?
+die Uhrzeit,time of day,Noun,die,Wie viel Uhr ist es?
+der Morgen,morning,Noun,der,Am Morgen trinke ich Kaffee.
+der Mittag,noon / midday,Noun,der,Am Mittag machen wir Pause.
+der Nachmittag,afternoon,Noun,der,Am Nachmittag gehe ich spazieren.
+der Abend,evening,Noun,der,Am Abend treffen wir Freunde.
+die Nacht,night,Noun,die,In der Nacht ist es ruhig.
+pünktlich,punctual / on time,Adjective,-,Bitte sei pünktlich!
+spät,late,Adjective,-,Es ist schon sehr spät.
+müde,tired,Adjective,-,Ich bin heute sehr müde.
+machen,to do / make,Verb,-,Was machst du in deiner Freizeit?
+spielen,to play,Verb,-,Wir spielen am Wochenende Fußball.
+treffen,to meet,Verb,-,Ich treffe heute meine Freunde.
+schwimmen,to swim,Verb,-,Im Sommer schwimme ich im See.
+lesen,to read,Verb,-,Sie liest ein spannendes Buch.
+tanzen,to dance,Verb,-,Wir tanzen gern Salsa.
+das Hobby,hobby,Noun,das,Mein Hobby ist Fotografieren.
+die Musik,music,Noun,die,Ich höre gern klassische Musik.
+das Buch,book,Noun,das,Das Buch gefällt mir gut.
+der Sport,sports,Noun,der,Macht er regelmäßig Sport?
+das Kino,cinema / movies,Noun,das,Gehen wir heute ins Kino?
+das Wochenende,weekend,Noun,das,Schönes Wochenende!
+gerne,gladly / with pleasure,Adverb,-,Ich koche gerne für Gäste.
+lernen,to learn / study,Verb,-,Wir lernen Deutsch.
+verstehen,to understand,Verb,-,Ich verstehe den Text nicht.
+erklären,to explain,Verb,-,Können Sie das bitte erklären?
+schreiben,to write,Verb,-,Er schreibt einen Brief.
+die Schule,school,Noun,die,Die Kinder gehen zur Schule.
+die Universität,university,Noun,die,Die Universität ist sehr alt.
+der Kurs,course,Noun,der,Der Sprachkurs beginnt am Montag.
+die Aufgabe,exercise / task,Noun,die,Wir machen jetzt Aufgabe 3.
+der Fehler,mistake / error,Noun,der,"Kein Problem, das war nur ein kleiner Fehler."
+schwer,difficult / heavy,Adjective,-,Die Grammatik ist nicht schwer.
+einfach,easy / simple,Adjective,-,Diese Übung ist ganz einfach.
+wehtun,to hurt,Verb,-,Mein Kopf tut weh.
+untersuchen,to examine,Verb,-,Der Arzt untersucht den Patienten.
+helfen,to help,Verb,-,Können Sie mir helfen?
+der Arzt,doctor (male),Noun,der,Der Arzt gibt mir ein Rezept.
+die Ärztin,doctor (female),Noun,die,Die Ärztin ist sehr nett.
+das Krankenhaus,hospital,Noun,das,Er liegt im Krankenhaus.
+die Medizin,medicine,Noun,die,Nimm die Medizin dreimal täglich.
+der Kopf,head,Noun,der,Mein Kopf tut weh.
+der Bauch,stomach / belly,Noun,der,Ich habe Bauchschmerzen.
+krank,sick / ill,Adjective,-,Heute ist er leider krank.
+gesund,healthy,Adjective,-,Obst und Gemüse sind gesund.
+fahren,to drive / ride,Verb,-,Wir fahren mit dem Zug nach Berlin.
+fliegen,to fly,Verb,-,Morgen fliege ich nach Spanien.
+reisen,to travel,Verb,-,Sie reist sehr gern in fremde Länder.
+ankommen,to arrive,Verb,-,Der Zug kommt um 14 Uhr an.
+abfahren,to depart,Verb,-,Der Bus fährt gleich ab.
+der Bahnhof,train station,Noun,der,Wir treffen uns am Bahnhof.
+der Flughafen,airport,Noun,der,Der Flughafen ist weit entfernt.
+der Zug,train,Noun,der,Der Zug hat fünf Minuten Verspätung.
+der Bus,bus,Noun,der,Ich nehme den Bus zur Arbeit.
+das Flugzeug,airplane,Noun,das,Das Flugzeug startet pünktlich.
+die Fahrkarte,ticket,Noun,die,"Eine Fahrkarte nach München, bitte."
+reparieren,to repair,Verb,-,Der Techniker repariert den Fernseher.
+bestellen,to order,Verb,-,Ich möchte ein Buch bestellen.
+funktionieren,to function / work,Verb,-,Die Heizung funktioniert wieder.
+die Garantie,warranty / guarantee,Noun,die,Das Gerät hat zwei Jahre Garantie.
+der Kundenservice,customer service,Noun,der,Rufen Sie den Kundenservice an.
+kaputt,broken,Adjective,-,Mein Handy ist kaputt.
+tragen,to wear / carry,Verb,-,Sie trägt heute ein rotes Kleid.
+passen,to fit,Verb,-,Die Hose passt mir sehr gut.
+gefallen,to like / please,Verb,-,Die Farbe gefällt mir.
+das Kleid,dress,Noun,das,Das Kleid ist wirklich schön.
+die Hose,pants / trousers,Noun,die,Ich suche eine schwarze Hose.
+das Hemd,shirt,Noun,das,Er zieht ein weißes Hemd an.
+die Jacke,jacket,Noun,die,Im Winter brauche ich eine warme Jacke.
+der Schuh,shoe,Noun,der,Die Schuhe sind sehr bequem.
+feiern,to celebrate,Verb,-,Wir feiern heute meinen Geburtstag.
+gratulieren,to congratulate,Verb,-,Ich gratuliere dir herzlich!
+einladen,to invite,Verb,-,Ich lade dich zu meiner Party ein.
+das Fest,party / festival,Noun,das,Das Fest war wunderschön.
+der Geburtstag,birthday,Noun,der,Herzlichen Glückwunsch zum Geburtstag!
+das Geschenk,present / gift,Noun,das,Vielen Dank für das tolle Geschenk!
+die Party,party,Noun,die,Die Party fängt um 20 Uhr an.
