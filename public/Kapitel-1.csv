@@ -1,0 +1,164 @@
+german,english,type,gender,example
+Anzug,suit,Noun,der,Er trägt heute einen eleganten schwarzen Anzug zum Vorstellungsgespräch.
+Anzüge,suits,Noun,die,Im Schrank hängen drei verschiedene Anzüge für die Arbeit.
+Apfelstrudel,apple cake,Noun,der,Ich esse am liebsten warmen Apfelstrudel mit Vanilleeis.
+Autobahn,highway,Noun,die,Auf der Autobahn nach München gibt es heute viel Stau.
+Autobahnen,highways,Noun,die,Deutsche Autobahnen sind weltweit bekannt.
+Bulgarisch,Bulgarian,Noun,das,Er lernt seit drei Monaten Bulgarisch.
+bulgarisch,Bulgarian,Adjective,,Wir haben gestern in einem bulgarischen Restaurant gegessen.
+Butterbrot,sandwich,Noun,das,Ich esse morgens oft ein Butterbrot mit Käse.
+Butterbrote,sandwiches,Noun,die,Für den Ausflug packt sie vier Butterbrote ein.
+das,the,,,
+der,the,,,
+die,the,,,
+Französisch,french,Noun,das,Sie spricht fließend Französisch.
+französisch,french,Adjective,,Französischer Käse ist weltweit sehr beliebt.
+Frühstück,breakfast,Noun,das,Das Frühstück ist im Hotelpreis inbegriffen.
+Frühstücke,breakfasts,Noun,die,Am Wochenende genießen wir ausgiebige Frühstücke.
+international,international,Adjective,,Die Konferenz ist sehr international aufgestellt.
+Italienisch,italian,Noun,das,Italienisch klingt sehr melodisch.
+italienisch,italian,Adjective,,Die italienische Küche schmeckt fantastisch.
+Japanisch,japanese,Noun,das,Er liest Mangas auf Japanisch.
+japanisch,japanese,Adjective,,Sie trinken gerne traditionellen japanischen Grüntee
+Kranke,sick person,Noun,die,Die Kranke braucht viel Ruhe und Schlaf.
+Rucksack,backpack,Noun,der,Mein Rucksack ist zu schwer für die Wanderung.
+Rucksäcke,backpacks,Noun,die,Die Schüler stellen ihre Rucksäcke in die Ecke.
+Russisch,russian,Noun,das,Verstehst du ein bisschen Russisch?
+russisch,russian,Adjective,,Klassische russische Literatur ist sehr tiefgründig.
+Türkisch,turkish,Noun,das,Sie lernt Türkisch für ihre Reise nach Istanbul.
+türkisch,turkish,Adjective,,Der türkische Kaffee wird in einem kleinen Kännchen gekocht.
+Ungarisch,hungarian,Noun,das,Ungarisch gilt als eine sehr schwere Sprache.
+ungarisch,hungarian,Adjective,,Ein echtes ungarisches Gulasch braucht viel Paprika.
+Walzer,waltz,Noun,der,Das Brautpaar tanzt einen langsamen Walzer.
+Walzer,waltz,Noun,die,Auf dem Ball wurden viele berühmte Walzer gespielt.
+Würstchen,sausage,Noun,das,Möchtest du ein Würstchen mit Senf?
+Würstchen,sausage,Noun,die,Wir grillen heute Abend Würstchen im Garten.
+zuordnen,to assign,Verb,,Bitte ordnen Sie die WÃ¶rter den richtigen Bildern zu.
+andere,other,Adjective,,Ich habe eine andere Idee.
+kennen,to know,Verb,,Kennst du den neuen Kollegen aus dem Team?
+sammeln,to collect,Verb,,Mein Bruder sammelt alte Münzen und Briefmarken.
+Bis bald!,see you soon!,Phrase,,Ich muss jetzt los. Bis bald!
+danke,Thank you,Interjection,,Danke für deine Hilfe beim Umzug!
+Entschuldigung,apology,Noun,die,"Entschuldigung, wo ist der Bahnhof?"
+gehen,to go,Verb,,Ich gehe jeden Morgen zu Fuß zur Arbeit.
+gut,good,Adjective,,Das Essen in diesem Restaurant schmeckt wirklich gut.
+Hallo!,Hello!,Interjection,,"Hallo, wie geht es dir?"
+heißen,to be called,Verb,,Ich heiße Thomas.
+hören,to hear,Verb,,Hörst du diese Musik?
+ich,I,Personal Pronoun (Nominativ),,Ich lerne Deutsch.
+Person,person,Noun,die,Eine unbekannte Person steht vor der Tür.
+Personen,persons,Noun,die,Der Tisch ist für vier Personen reserviert.
+sehr,very,Adverb,,Das Buch ist sehr interessant.
+Tschüs!,Bye!,Interjection,,"Tschüs, bis morgen!"
+und,and,Conjunction,,Er liest ein Buch und hört Musik.
+wer,who,Interrogative Pronoun,,Wer ist das?
+wie,how,Interrogative Adverb ,,Wie heißt du?
+wie geht's ?,How's it going ?,Phrase,,Wie geht's Ihnen heute?
+auch,also,Adverb,,Ich komme auch aus Deutschland.
+sein,to be,Verb,,Das Wetter ist heute sehr schön.
+Auf Wiedersehen,Goodbye!,Phrase,,Vielen Dank für Ihren Besuch und auf Wiedersehen.
+das,this,Article,,Das ist mein neues Auto
+Frau,woman,Noun,die,"Guten Tag, Frau Müller."
+Frauen,women,Noun,die,In diesem Büro arbeiten viele Frauen.
+Gute Nacht!,Good Night!,Phrase,,Schlaf gut und gute Nacht!
+Guten Abend!,Good evening!,Phrase,,"Guten Abend, haben Sie einen Tisch frei?"
+Guten Morgen!,Good morning!,Phrase,,Guten Morgen! Wie hast du geschlafen?
+Guten Tag!,Good day!,Phrase,,Guten Tag allerseits
+Herr,gentleman,Noun,der,Sehr geehrte Damen und Herren.
+Ihnen,You (Formal),Personal Pronoun (Dative),,Wie geht es Ihnen?
+Kollegin,colleague,Noun,die,Meine neue Kollegin ist sehr freundlich.
+Kolleginnen,colleague,Noun,die,Ich treffe mich heute mit meinen Kolleginnen zum Mittagessen.
+Name,name,Noun,der,Er kann sich schwer Namen merken
+Sie,You (Formal),Personal Pronoun,,Kommen Sie aus Berlin?
+Dialog,dialoge,Noun,der,Der Schauspieler übt seinen Dialog für die Szene.
+Dialoge,dialoge,Noun,die,Im Deutschkurs hören wir oft kurze Dialoge.
+Antwort,answer,Noun,die,Ich warte noch auf eine Antwort von ihm
+Antworten,answer,Noun,die,Alle richtigen Antworten stehen am Ende des Buches
+aus,here,Preposition (Dativ),,Ich komme aus Deutschland.
+deutsch,german,Noun,das,Wir lernen Deutsch.
+deutsch,german,Adjective,,Deutsche Autos sind sehr zuverlässig.
+deutschland,germany,Noun,das,Er wohnt seit zwei Jahren in Deutschland.
+Englisch,English,Noun,das,Er spricht fließend Englisch.
+Englisch,English,Adjective,,Der englische Tee schmeckt sehr intensiv.
+in,in,"Two-Way Preposition (takes Dative for location, Accusative for direction)",,Sie wohnt in Berlin.
+kommen,to come from, ,,Der Zug kommt pünktlich an.
+Reiseführer,travel guide,Noun,der,
+Spanisch,spanish,,,
+sprechen,to speak,Verb,,
+Telefon,telephone,Noun,das,
+wo,where,,,
+welche,which,,,
+woher?,from where,,,
+wohnen,to live,Verb,,
+sie,she,,,
+er,he,,,
+ergänzen,to complete,Verb,,
+Hausnummer,house number,Noun,die,
+Postleitzahl,zip code,Noun,die,
+Webseite,website,Noun,die,
+Interview,interview,Noun,das,
+notieren,to note down,Verb,,
+Partner,partner (Male),Noun,der,
+Partnerin,partner (Female),Noun,die,
+raten,to guess,Verb,,
+vorstellen,to introduce,Verb,,
+Buchstabe,letter,Noun,der,
+laut,loud,,,
+Zahl,number,Noun,die,
+fragen,to ask,Verb,,
+Handynummer,cell phone number,Noun,die,
+Ihr,Your (Formal),,,
+Telefonnummer,phone number,Noun,die,
+Alphabet,alphabet,Noun,das,
+erst,first,,,
+schreiben,to write,Verb,,
+bitte,please,,,
+buchstabieren,to spell,Verb,,
+dein,your,,,
+ein bisschen,a litte,,,
+E-Mail-Adresse,E-mail address,Noun,die,
+können,to be able to,Verb,,
+langsam,slow,,,
+nicht,not,,,
+noch einmal,once more,,,
+variieren,to vary,Verb,,
+verstehen,to understand,Verb,,
+wie bitte ?,Come again ?,,,
+Arabisch,arabic,,,
+China,china,,,
+Chinesisch,chinese,,,
+lernen,to learn,Verb,,
+Österreich,Austria,,,
+Tabelle,table,Noun,die,
+USA,USA,Noun,die,
+Frankreich,france,,,
+Großbritannien,Great Britan,,,
+Italien,italy,,,
+Japan,japan,,,
+Land,land,Noun,das,
+Polen,poland,,,
+Polnisch,polish,,,
+Rätoromanisch,romansh,,,
+Russland,russia,,,
+Schweiz,switzerland,,,
+Spanien,spain,,,
+Sprache,language,Noun,die,
+Türkei,Turkey,Noun,die,
+Schweden,sweden,,,
+Ukraine,ukraine,Noun,die,
+E-Mail,E-mail,Noun,die,
+Portugal,portugal,,,
+Griechenland,greece,,,
+Griechish,greek,,,
+lrland,lreland,,,
+kanada,canada,,,
+Maori,maori,,,
+mexiko,mexico,,,
+Neuseeland,new Zealand,,,
+Portugiesisch,portugese,,,
+Schwedisch,swedish,,,
+Syrien,syria,,,
+Thai,thai,,,
+Thailand,thailand,,,
+Film,film,Noun,der,
+klar,clear,,,
